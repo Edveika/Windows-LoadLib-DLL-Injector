@@ -6,6 +6,10 @@ DWORD GetProcId(const char* procName);
 
 int main(int argc, const char* argv[])
 {
+	// Must have 3 command line args
+	// 1 - launch command(default)
+	// 2 - path to the dll that is going to be injected
+	// 3 - process name
 	if (argc != 3)
 	{
 		std::cout << "USAGE: ./app_name path_to_dll process_name" << std::endl;
