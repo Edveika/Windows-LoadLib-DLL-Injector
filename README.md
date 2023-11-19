@@ -10,8 +10,12 @@ Basic Dynamic Link Library(DLL) injector for **WINDOWS** that uses the Load Libr
 ```
 injector.exe path_to_dll process_name
 ```
-
 **REQUIRES ADMINISTRATOR PRIVILEGES!!!**
+
+# Downloading the injector
+
+1. Download the injector from the [releases](https://github.com/Edveika/Windows-LoadLib-DLL-Injector/releases/tag/1.0)
+2. To run the injector see [Injector usage](#usage)
 
 ## Credits
 
