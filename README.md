@@ -8,7 +8,7 @@ Basic Dynamic Link Library(DLL) injector for **WINDOWS** that uses the Load Libr
 
 ## Usage
 ```
-./app_name path_to_dll process_name
+injector.exe path_to_dll process_name
 ```
 
 **REQUIRES ADMINISTRATOR PRIVILEGES!!!**
