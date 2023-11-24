@@ -7,6 +7,10 @@ This is **ONLY** used for **ETHICAL** and **LEARNING** purposes. I do not encour
 Basic Dynamic Link Library(DLL) injector for **WINDOWS** that uses the Load Library method. In the tutorial they hardcode DLL path and process name into the code, I used console arguments to avoid recompiling the code for each game/app i am injecting DLLs into.
 
 ## Usage
+1. Open CMD
+
+2. Run:
+
 ```
 injector.exe path_to_dll process_name
 ```
